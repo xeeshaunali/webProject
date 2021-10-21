@@ -1,0 +1,61 @@
+
+
+	
+	
+	.para1{
+		
+		text-align:justify;
+		width:50%;
+		height:50%;
+		border:2px solid red;
+		text-indent:50px;
+		background:linear-gradient(to right, skyblue,lightgreen);
+	
+	}
+	
+	
+	#Xee{
+		
+		background-color:green;
+		color:red;
+		font:consolas;
+		border-radius:10px;
+		word-spacing:5px;
+		letter-spacing:5px;
+		border-top:2px solid red;
+		border-bottom:2px double blue;
+		border-right:2px dotted black;
+		border-left:2px solid red;
+		
+		
+		
+	}
+	
+	.head1{
+		
+		text-decoration:underline;
+		font-weight:bold;
+		background:radial-gradient(red,green);
+		
+		
+	}
+	
+	
+	
+	a{
+		
+		text-decoration:none;
+	}
+	
+	
+		
+		
+	
+	
+	
+	h2{
+		
+		font-size:30px;
+		text-shadow:5px 5px 10px red;
+	}
+	

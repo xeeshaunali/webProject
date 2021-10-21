@@ -1,0 +1,6 @@
+Color #F3B553 top
+color #40312A div
+Color #20818D Seach Bar
+color #DAC8A5 second div
+Color 9F8BC2 Footer
+

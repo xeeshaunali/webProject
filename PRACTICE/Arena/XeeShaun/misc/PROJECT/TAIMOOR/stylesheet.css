@@ -1,0 +1,77 @@
+
+body>form{
+    background-color: blueviolet;
+    border-style: solid;
+    border: 1px;
+    width: 60%;
+    height: 50%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    
+    margin-left: 250px;
+  
+}
+
+label {
+    width: 160px;
+    display: inline-block;
+    color: white;
+
+}
+h1{
+    color: blueviolet;
+    text-decoration-line: underline;
+}
+
+#thankyou{
+    color: green;
+}
+
+h2{
+    color: blueviolet;
+}
+
+table{
+    color: white;
+}
+
+input{
+    height: 22px;
+
+    
+}
+
+input[type="submit"]{
+
+    height: 45px;
+    width: 130px;
+}
+
+input[type="reset"]{
+
+    height: 45px;
+    width: 130px;
+}
+
+#male{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+span>label{
+    margin-right: 0px;
+
+}
+
+
+table{
+
+   
+
+}
+
+select{
+    height: 26px;
+}

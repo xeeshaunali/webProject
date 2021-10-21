@@ -1,0 +1,20 @@
+form{
+    background-color: #6A58CE;
+    border-style: solid;
+    border: 1px;
+    width: 60%;
+    height: 50%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    
+    margin-left: 250px;
+  
+}
+input:hover{
+    background-color: green;
+}
+button:active{
+    background-color: blue;
+}
