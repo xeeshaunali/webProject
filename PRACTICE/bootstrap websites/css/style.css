@@ -1,0 +1,33 @@
+.container{
+    background-repeat: no-repeat;
+    height:500px;
+    margin:0px auto;
+    width:800px;
+    
+}
+.abc h1,p{
+    color:white;
+}
+.abc{
+    background-color:gray;
+    background:rgba(0,0,0,0.6);
+    height:346px;
+    width: 800px;
+}
+.abc h1,p{
+    //padding-top:50px;
+    //margin-top:100px;
+    text-align: center;
+}
+.abc button{
+    margin: 0px auto;
+    width:15%;
+    height:50px;
+    border:1px solid green;
+    background:none;
+    color:white;
+}
+.abc button:hover{
+    background-color:lightseagreen;
+
+}
