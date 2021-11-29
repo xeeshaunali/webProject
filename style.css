@@ -2,35 +2,58 @@
     margin: 0px auto;
 }
 
-.bg{
-    background-color: #0E121A;
-    height: 167px;
+
+ 
+.header {
+    background-color: #ea1d35;
+    height: 45px;
 }
 
-.header img{
-    width: 200px;
 
-}
-
-.header h1 {
+.header1{
+    display: inline;
+    color: white;
     float: right;
-    color: aliceblue;
-    margin-right: 300px;
-    margin-top: 10px;
-    font-size: 50px;
-    font-weight: bolder;    
+    margin: auto;
+    width: 20%;
+    padding: 20px;
+    background-image: url(https://img.icons8.com/color/48/000000/clock--v3.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 10px 10px 10px 20px;
 }
 
-button {
-    
+
+
+
+.container{
+    background-color: black;
+}
+
+.logo img{
+    float: left;
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 5px;
 }
 
 .nav ul li{
     float: left;
+    margin: 30px;
+    margin-top: 14px;
     list-style: none;
-    margin: 20px;
-    font-weight: bolder;
-    font-family: 'Courier New', Courier, monospace;
-    color: black;    
+    color: #000000;
+    display: inline;    
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    word-spacing: 3px;
+    
+}
+
+.nav ul li:hover{
+    color: #ea1d35;
+
 }
 
